@@ -1,11 +1,11 @@
 {
-    "name": "cviniciussdias/buscador-cursos",
+    "name": "aldeiralvesmartins/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
         {
-            "name": "Vinicius Dias",
-            "email": "carlosv775@gmail.com"
+            "name": "Aldeir alves",
+            "email": "deirnogrc7@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alura\\BuscadorDeCursos\\": "src/"
+            "Aldeir\\BuscadorDeCursos\\": "src/"
         }
     },
     "require-dev": {

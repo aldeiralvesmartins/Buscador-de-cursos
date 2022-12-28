@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\BuscadorDeCursos;
+namespace Aldeir\BuscadorDeCursos;
 
 use GuzzleHttp\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;

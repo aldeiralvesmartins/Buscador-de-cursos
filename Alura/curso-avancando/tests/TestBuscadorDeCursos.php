@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\BuscadorDeCursos\Tests;
+namespace Aldeir\BuscadorDeCursos\Tests;
 
-use Alura\BuscadorDeCursos\Buscador;
+use Aldeir\BuscadorDeCursos\Buscador;
 use GuzzleHttp\ClientInterface;
 use PHPUnit\Framework\TestCase;
 use Psr\Http\Message\ResponseInterface;
